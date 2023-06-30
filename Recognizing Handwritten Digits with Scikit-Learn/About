@@ -1,1 +1,5 @@
-
+Recognizing handwritten digits using Scikit-Learn involves training a machine learning model on a dataset of handwritten digit images, such as the MNIST dataset. 
+The dataset is typically divided into a training set and a test set. The model learns from the training set to recognize patterns and features in the images. 
+Once trained, the model can predict the digit represented by a new handwritten image. Common algorithms used for this task include Support Vector Machines (SVM), 
+Random Forests, KNN Algorithms, and Decision Tree Algorithms. The accuracy of the model can be evaluated by comparing its predictions with the ground truth labels 
+in the test set.
